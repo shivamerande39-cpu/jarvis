@@ -1,0 +1,10 @@
+{
+  "name": "J.A.R.V.I.S. Personal AI Assistant",
+  "description": "An advanced personal AI assistant inspired by Stark Industries J.A.R.V.I.S., featuring holographic HUD telemetry, voice recognition, speech synthesis, system diagnostics, directive management, and Gemini AI reasoning.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
